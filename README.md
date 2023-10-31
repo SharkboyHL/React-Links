@@ -1,3 +1,1 @@
-# React-Links
-
-# Teste
+<h1 align="center">React Links</h1>
